@@ -1,0 +1,28 @@
+_repo: London-Ancient-and-Modern-from-the-Sanitary-and-Medical-Point-of-View_54904
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Poore, George Vivian
+    aliases:
+    - Poore, G. V. (George Vivian)
+    - Poore, G. Vivian (George Vivian)
+    birthdate: 1843
+    deathdate: 1904
+    gutenberg_agent_id: '44551'
+    url: http://www.gutenberg.org/2009/agents/44551
+description: ''
+gutenberg_issued: '2017-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54904'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sanitation -- England -- London -- History -- 19th century'
+- !lcsh 'Medicine -- England -- London -- History -- 19th century'
+- !lcc 'RA'
+- GITenberg
+title: London (Ancient and Modern) from the Sanitary and Medical Point of View
+url: http://www.gutenberg.org/ebooks/54904
